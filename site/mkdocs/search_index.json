@@ -1,0 +1,44 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Drupal 8 documentation\n#\n\n\nCommands\n#\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\n\n\nNote\n\n\nThis is an example of a note\n\n\n\n\n\n\nWarning\n\n\nThis is an example of a warning block\n\n\n\n\nProject layout\n#\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#drupal-8-documentation", 
+            "text": "", 
+            "title": "Drupal 8 documentation"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.    Note  This is an example of a note    Warning  This is an example of a warning block", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/using-mkdocs/", 
+            "text": "Using MkDocs\n#\n\n\nDocumentation\n#\n\n\nhttp://www.mkdocs.org/\n \n\n\nFor full documentation.\n\n\nAdding a page\n#\n\n\nhttp://www.mkdocs.org/#adding-pages\n \n\n\ncurl 'https://jaspervdj.be/lorem-markdownum/markdown.txt' \n docs/about.md", 
+            "title": "Using MkDocs"
+        }, 
+        {
+            "location": "/using-mkdocs/#using-mkdocs", 
+            "text": "", 
+            "title": "Using MkDocs"
+        }, 
+        {
+            "location": "/using-mkdocs/#documentation", 
+            "text": "http://www.mkdocs.org/    For full documentation.", 
+            "title": "Documentation"
+        }, 
+        {
+            "location": "/using-mkdocs/#adding-a-page", 
+            "text": "http://www.mkdocs.org/#adding-pages    curl 'https://jaspervdj.be/lorem-markdownum/markdown.txt'   docs/about.md", 
+            "title": "Adding a page"
+        }
+    ]
+}
